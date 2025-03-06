@@ -1,3 +1,3 @@
 from python:3.11
 
-pip install pandasai
+run pip install pandasai
