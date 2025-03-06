@@ -1,3 +1,3 @@
-from alibaba-cloud-linux-3-registry.cn-hangzhou.cr.aliyuncs.com/alinux3/python
+from registry.cn-hangzhou.aliyuncs.com/qinshuguo/python
 
 run pip install pandasai
